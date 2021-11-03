@@ -2,9 +2,9 @@
 
 ### Requirements
 - Python 3
-- FFMPEG
-- A GNU/Linux environment
-- [A Reddit Account with API access](https://www.reddit.com/wiki/api)
+- ffmpeg
+- GNU/Linux environment
+- [Reddit Account with API access](https://www.reddit.com/wiki/api)
 - `sudo pip3 install -r requirements.txt`
 
 ### Usage
